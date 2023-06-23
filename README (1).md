@@ -20,7 +20,7 @@ A sorting algorithm is an algorithm that puts the elements of a list in a certai
 #  Samples
 
 * Ascending Sort
-![Animated GIF](images/ascending-sort2.gif)
+![](images/ascending-sort2.gif)
 
 * Descending Sort
-![Animated GIF](images/descending-sortkjkl.gif)
+![](images/descending-sortkjkl.gif)

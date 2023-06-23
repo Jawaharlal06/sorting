@@ -23,4 +23,4 @@ A sorting algorithm is an algorithm that puts the elements of a list in a certai
 ![](https://github.com/Jawaharlal06/sorting/blob/main/ascending-sort2.gif)
 
 * Descending Sort
-![](images/descending-sortkjkl.gif)
+![](https://github.com/Jawaharlal06/sorting/blob/main/desending-Sortkjkl.gif)
